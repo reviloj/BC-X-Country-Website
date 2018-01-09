@@ -1,0 +1,142 @@
+html
+{
+	background: #076815 url("../images/forest.png") repeat-x left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 975px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+._page.f3s_top
+{
+	width: 975px;
+	background-image: url("../images/page-sprite.png");
+	overflow: hidden;
+	height: 25px;
+	background-position: left top;
+}
+
+._page.f3s_mid
+{
+	background-image: url("../images/page-sprite.png");
+	overflow: visible;
+	background-position: -975px top;
+	width: 975px;
+	min-height: 517.531578947368px;
+	padding-bottom: 47px;
+}
+
+._page.f3s_bot
+{
+	width: 975px;
+	background-image: url("../images/page-sprite.png");
+	overflow: visible;
+	height: 26px;
+	background-position: -1950px top;
+}
+
+#u266
+{
+	z-index: 2;
+	width: 918px;
+	position: relative;
+	margin-right: -918px;
+	margin-top: -16px;
+	left: 9px;
+}
+
+#u175
+{
+	z-index: 4;
+	width: 113px;
+	position: relative;
+	margin-right: -113px;
+	margin-top: 210px;
+	left: 59px;
+}
+
+#u180
+{
+	z-index: 6;
+	width: 113px;
+	position: relative;
+	margin-right: -113px;
+	margin-top: 254px;
+	left: 56px;
+}
+
+#u185
+{
+	z-index: 8;
+	width: 113px;
+	position: relative;
+	margin-right: -113px;
+	margin-top: 298px;
+	left: 59px;
+}
+
+#u190
+{
+	z-index: 10;
+	width: 113px;
+	position: relative;
+	margin-right: -113px;
+	margin-top: 342px;
+	left: 59px;
+}
+
+#u195
+{
+	z-index: 12;
+	width: 113px;
+	position: relative;
+	margin-right: -113px;
+	margin-top: 386px;
+	left: 59px;
+}
+
+#u271
+{
+	z-index: 14;
+	width: 925px;
+	position: relative;
+	margin-right: -925px;
+	margin-top: 2px;
+	left: 25px;
+}
+
+#u276
+{
+	z-index: 16;
+	width: 141px;
+	position: relative;
+	margin-right: -141px;
+	left: 51px;
+}
+
+#u266_img,#u175_img,#u180_img,#u185_img,#u190_img,#u195_img,#u271_img,#u276_img
+{
+	vertical-align: top;
+}
+
+#u281-3
+{
+	z-index: 18;
+	width: 572px;
+	min-height: 632px;
+	position: relative;
+	margin-right: -572px;
+	margin-top: 210px;
+	left: 284px;
+}
+
+body
+{
+	padding-top: 31px;
+	padding-bottom: 26px;
+}
+
